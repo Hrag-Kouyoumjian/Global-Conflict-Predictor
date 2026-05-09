@@ -33,7 +33,7 @@ use, not just a gut feeling.
 4. Claude then runs a full DIME-FIL analysis on top of the computed probability
 5. Returns a structured assessment with escalation level, outlooks, and counter-arguments
 
-The probability is live — run it today vs during an active crisis and you 
+The probability is live, so you can run it today vs during an active crisis, and you 
 get different numbers because it's pulling real headlines each time.
 
 ## Probability Framework
